@@ -1,5 +1,5 @@
 # Lab 4 Multi-variable linear regression
-import tensorflow as tf
+import tensorflow as tfABC
 import numpy as np
 
 xy = np.loadtxt('../data-01-test-score.csv', delimiter=',', dtype=np.float32)
